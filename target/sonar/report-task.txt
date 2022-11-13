@@ -1,0 +1,6 @@
+projectKey=practica3
+serverUrl=http://localhost:9000
+serverVersion=9.7.0.61563
+dashboardUrl=http://localhost:9000/dashboard?id=practica3
+ceTaskId=AYRy2z2w6xjeuuJ4H0Ap
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYRy2z2w6xjeuuJ4H0Ap
